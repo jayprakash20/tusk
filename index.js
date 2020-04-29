@@ -18,6 +18,7 @@ const {log} = console;
 require('electron-debug')({enabled: true});
 require('electron-dl')();
 require('electron-context-menu')();
+//adding a comment
 
 let exiting = false;
 let mainWindow;
